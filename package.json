@@ -1,0 +1,24 @@
+{
+  "name": "pic-convert",
+  "version": "1.3.5",
+  "description": "🚀 Convert image format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabricioFacco/Pic-Convert.git"
+  },
+  "author": "traxzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabricioFacco/Pic-Convert/issues"
+  },
+  "homepage": "https://github.com/FabricioFacco/Pic-Convert#readme",
+  "dependencies": {
+    "imagemin": "^8.0.1",
+    "imagemin-jpegtran": "^6.0.0",
+    "imagemin-pngquant": "^9.0.0"
+  }
+}
